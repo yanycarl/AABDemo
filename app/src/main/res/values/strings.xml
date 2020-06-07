@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aabTest</string>
+    <string name="title_englishpackage">English Language Pack</string>
+    <string name="Text">The base text</string>
+</resources>
